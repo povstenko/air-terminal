@@ -1,0 +1,11 @@
+D:\Visual studio projects\AirTerminal\AirTerminal\bin\Debug\AirTerminal.exe.config
+D:\Visual studio projects\AirTerminal\AirTerminal\bin\Debug\AirTerminal.exe
+D:\Visual studio projects\AirTerminal\AirTerminal\bin\Debug\AirTerminal.pdb
+D:\Visual studio projects\AirTerminal\AirTerminal\obj\Debug\AirTerminal.csprojResolveAssemblyReference.cache
+D:\Visual studio projects\AirTerminal\AirTerminal\obj\Debug\AirTerminal.fMain.resources
+D:\Visual studio projects\AirTerminal\AirTerminal\obj\Debug\AirTerminal.Properties.Resources.resources
+D:\Visual studio projects\AirTerminal\AirTerminal\obj\Debug\AirTerminal.csproj.GenerateResource.cache
+D:\Visual studio projects\AirTerminal\AirTerminal\obj\Debug\AirTerminal.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\AirTerminal\AirTerminal\obj\Debug\AirTerminal.exe
+D:\Visual studio projects\AirTerminal\AirTerminal\obj\Debug\AirTerminal.pdb
+D:\Visual studio projects\AirTerminal\AirTerminal\obj\Debug\AirTerminal.fAdd.resources

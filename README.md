@@ -1,2 +1,2 @@
-# air-terminal
-Air Terminal application using Windows Forms
+# Air Terminal
+Air Terminal application using **Windows Forms**
